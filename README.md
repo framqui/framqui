@@ -2,20 +2,13 @@
 
 **Desarrollador de Software Mid Level**
 
-| | |
-| :--- | :--- |
-| **LinkedIn** | [Andrés Ramos](https://www.linkedin.com/in/framqui/) |
-| **Email** | [andfera201@gmail.com](mailto:andfera201@gmail.com) |
-| **Sitio personal** | [framqui.com](https://framqui.com) |
-
----
-
+| **LinkedIn**       | [Andrés Ramos](https://www.linkedin.com/in/framqui/) |
+| :----------------- | :--------------------------------------------------- |
+| **Email**          | [andfera201@gmail.com](mailto:andfera201@gmail.com)  |
+| **Sitio personal** | [framqui.com](https://framqui.com)                   |
 ## Contáctame
 
 ¿Quieres ponerte en contacto conmigo, proponer un proyecto o conversar sobre tecnología, desarrollo de producto e inteligencia artificial? Escríbeme directamente por **[correo electrónico](mailto:andfera201@gmail.com)** o conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/framqui/)**.
-
----
-
 ## Sobre mí
 
 <img src="https://github.com/framqui/framqui/blob/main/assets/me.jpg?raw=true" alt="Andrés Ramos" width="180" />
@@ -25,9 +18,6 @@ Llevo más de cinco años desarrollando software, con un enfoque principal en ba
 Este cambio significó dejar de construir e integrar piezas aisladas para acompañar todo el ciclo de vida del producto: entender el problema de fondo, diseñar la solución, definir su arquitectura, implementarla, desplegarla y coordinar el trabajo técnico.
 
 **Bitácora pública:** En [Framqui](https://framqui.com) documento notas técnicas, reflexiones sobre desarrollo de producto, guías prácticas y los avances reales de los proyectos en los que trabajo.
-
----
-
 ## Tecnologías principales
 
 Tecnologías con las que tengo mayor experiencia y trabajo en el día a día:
@@ -35,20 +25,13 @@ Tecnologías con las que tengo mayor experiencia y trabajo en el día a día:
 - **Lenguajes:** TypeScript, Python
 - **Bases de datos:** PostgreSQL
 - **Nube:** AWS
-
----
-
 ## Lo que hago y me interesa
 
-| | |
-| :--- | :--- |
-| **Desarrollo de productos** | Llevar una idea desde el problema hasta una solución útil, conectando las necesidades del negocio con la ejecución técnica. |
-| **Arquitectura y código mantenible** | Construir software claro y bien estructurado, tomando decisiones técnicas que permitan que los sistemas crezcan sin volverse frágiles. |
+| **Desarrollo de productos**          | Llevar una idea desde el problema hasta una solución útil, conectando las necesidades del negocio con la ejecución técnica.                    |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Arquitectura y código mantenible** | Construir software claro y bien estructurado, tomando decisiones técnicas que permitan que los sistemas crezcan sin volverse frágiles.         |
 | **Inteligencia artificial aplicada** | Integrar capacidades de IA tanto para potenciar las funciones de un producto como para acelerar y mejorar la forma en que desarrollo software. |
-| **Aprendizaje en público** | Explorar herramientas a fondo, llevarlas a la práctica y compartir ese conocimiento con la comunidad. |
-
----
-
+| **Aprendizaje en público**           | Explorar herramientas a fondo, llevarlas a la práctica y compartir ese conocimiento con la comunidad.                                          |
 ## Experiencia profesional
 
 ### Novadynamics
@@ -76,9 +59,6 @@ Formé parte del equipo tecnológico del área de seguros, asegurando la estabil
 - **Soporte técnico especializado:** Resolución de incidentes complejos y análisis de errores en producción junto a equipos internos y aliados externos.
 
 [Conocer R5](https://www.grupor5.com/comprar-soat-en-linea)
-
----
-
 ## Stack tecnológico
 
 Herramientas con las que diseño, construyo y despliego soluciones hoy en día:
