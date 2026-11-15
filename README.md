@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-<img src="https://github.com/framqui/framqui/blob/main/assets/me.jpg" alt="Andrés Ramos" width="180" />
+<img src="https://github.com/framqui/framqui/blob/main/assets/me.jpg?raw=true" alt="Andrés Ramos" width="180" />
 
 Llevo más de cinco años desarrollando software, con un enfoque principal en backend. A principios de 2026 inicié una transición clave en mi carrera: pasé de enfocarme únicamente en el código a crear productos de software completos, integrar inteligencia artificial en mis flujos de trabajo y compartir públicamente lo que aprendo en el proceso.
 
