@@ -1,8 +1,8 @@
-# Hola, Soy Andrés Ramos
+# Hola, Soy Andres Ramos
 
 **Desarrollador de Software Mid Level**
 
-| **LinkedIn**       | [Andrés Ramos](https://www.linkedin.com/in/framqui/) |
+| **LinkedIn**       | [Andres Ramos](https://www.linkedin.com/in/framqui/) |
 | :----------------- | :--------------------------------------------------- |
 | **Email**          | [andfera201@gmail.com](mailto:andfera201@gmail.com)  |
 | **Sitio personal** | [framqui.com](https://framqui.com)                   |
