@@ -1,184 +1,92 @@
- <div align="center">
-  <img src="assets/banner.jpg" alt="Banner" width="100%">
-</div>
+# Hola, Soy Andrés Ramos
 
-<h1 align="center">Hola 👋, soy Andres Ramos</h1>
+**Desarrollador de Software Mid Level**
 
-<div align="center">
+| | |
+| :--- | :--- |
+| **LinkedIn** | [Andrés Ramos](https://www.linkedin.com/in/framqui/) |
+| **Email** | [andfera201@gmail.com](mailto:andfera201@gmail.com) |
+| **Sitio personal** | [framqui.com](https://framqui.com) |
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakaramos/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andfera201@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573172116762)
+---
 
-</div>
+## Contáctame
 
-## 👨‍💻 Sobre mí
+¿Quieres ponerte en contacto conmigo, proponer un proyecto o conversar sobre tecnología, desarrollo de producto e inteligencia artificial? Escríbeme directamente por **[correo electrónico](mailto:andfera201@gmail.com)** o conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/framqui/)**.
 
-<table>
-  <tr>
-    <td width="62%" valign="top">
-      <p>Soy de Colombia y mi ciudad de origen es <strong>Pitalito, Huila</strong>, una región reconocida por su tradición cafetera y la calidad de su café.</p>
-      <p>Soy desarrollador de software con más de <strong>4 años de experiencia</strong>, principalmente en el desarrollo backend</p>
-      <p>Fuera de la tecnología, disfruto levantar pesas, escuchar música, leer e investigar sobre temas que despiertan mi curiosidad. </p>
-    </td>
-    <td width="38%" valign="top" align="center">
-      <h3>🛠️ Tecnologías principales</h3>
-      <img src="https://skillicons.dev/icons?i=python,ts,postgres,aws,docker" alt="Python, TypeScript, PostgreSQL, AWS y Docker">
-      <p>También estoy explorando herramientas de inteligencia artificial aplicadas al desarrollo de software, como Cursor.</p>
-    </td>
-  </tr>
-</table>
+---
 
-## 🎯 ¿Qué me interesa?
+## Sobre mí
 
-<table>
-  <tr>
-    <td align="center" valign="top" width="25%">
-      <h3>💻</h3>
-      <strong>Desarrollo de software</strong>
-      <p>Construir soluciones modulares, mantenibles y bien estructuradas, prestando atención a la calidad del código, la organización de los componentes y las decisiones técnicas que facilitan la evolución de los sistemas.</p>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <h3>🤖</h3>
-      <strong>Inteligencia artificial</strong>
-      <p>Explorar cómo la IA puede ampliar las capacidades del software, ayudar a resolver problemas, mejorar los procesos de desarrollo y abrir nuevas posibilidades para la creación de productos.</p>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <h3>🚀</h3>
-      <strong>Desarrollo de productos</strong>
-      <p>Participar en la evolución de ideas, desde la identificación de un problema y la comprensión de sus necesidades hasta el diseño y la construcción de soluciones útiles que aporten valor.</p>
-    </td>
-    <td align="center" valign="top" width="25%">
-      <h3>📚</h3>
-      <strong>Aprendizaje continuo</strong>
-      <p>Profundizar en nuevas tecnologías, investigar cómo funcionan las cosas, experimentar con diferentes herramientas y convertir el conocimiento adquirido en experiencia práctica.</p>
-    </td>
-  </tr>
-</table>
+![Andrés Ramos](assets/me.png)
 
+Llevo más de cinco años desarrollando software, con un enfoque principal en backend. A principios de 2026 inicié una transición clave en mi carrera: pasé de enfocarme únicamente en el código a crear productos de software completos, integrar inteligencia artificial en mis flujos de trabajo y compartir públicamente lo que aprendo en el proceso.
 
-## 🚀 Mi camino en el desarrollo de software
+Este cambio significó dejar de construir e integrar piezas aisladas para acompañar todo el ciclo de vida del producto: entender el problema de fondo, diseñar la solución, definir su arquitectura, implementarla, desplegarla y coordinar el trabajo técnico.
 
-A lo largo de mi trayectoria he pasado de construir e integrar componentes de software a involucrarme en diferentes etapas del ciclo de vida de los productos: desde el análisis de problemas y el diseño de soluciones hasta la implementación, la arquitectura, el despliegue y la coordinación del trabajo técnico.
+**Bitácora pública:** En [Framqui](https://framqui.com) documento notas técnicas, reflexiones sobre desarrollo de producto, guías prácticas y los avances reales de los proyectos en los que trabajo.
 
-## 💼 Experiencia profesional
+---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-  <h3>🏢 R5</h3>
-  <p><strong>Fintech · Área de seguros</strong></p>
+## Tecnologías principales
 
-  <p>Durante mis primeros años trabajé en el área de seguros de R5, donde participé en el desarrollo de automatizaciones, scripts e integraciones. También brindé soporte técnico interno y externo a diferentes áreas y entidades, entre ellas <strong>Bancolombia y AXA Seguros</strong>, apoyando la operación de venta de SOAT desde la plataforma.</p>
+Tecnologías con las que tengo mayor experiencia y trabajo en el día a día:
 
-  <p><strong>Responsabilidades y proyectos</strong></p>
-  <ul>
-    <li><strong>Soporte técnico interno y externo:</strong> atención de requerimientos, análisis de errores y resolución de incidentes relacionados con la operación.</li>
-    <li><strong>Venta de SOAT:</strong> soporte al funcionamiento de los procesos de venta desde el sistema de R5.</li>
-    <li><strong>Integraciones con terceros:</strong> desarrollo y mantenimiento de conexiones con entidades financieras, aseguradoras y otros proveedores.</li>
-    <li><strong>Integración de servicios:</strong> incorporación de nuevas aseguradoras y pasarelas de pago.</li>
-    <li><strong>Automatización de procesos:</strong> desarrollo de scripts y herramientas para optimizar tareas operativas.</li>
-    <li><strong>Prevención de fraude:</strong> participación en herramientas para la gestión de fraudes y listas de clientes restringidos.</li>
-  </ul>
+- **Lenguajes:** TypeScript, Python
+- **Bases de datos:** PostgreSQL
+- **Nube:** AWS
 
-  <p><a href="https://www.grupor5.com/comprar-soat-en-linea">Conocer R5 ↗</a></p>
-<td width="50%" valign="top">
-  <h3>🚀 Novadynamics</h3>
-  <p><strong>Desarrollo de productos de software</strong></p>
+---
 
-  <p>Actualmente trabajo en Novadynamics, participando en el desarrollo de una solución tecnológica para <em>contact centers virtuales</em>. La plataforma integra chat, telefonía, herramientas de gestión e inteligencia artificial para centralizar la operación en un mismo entorno.</p>
+## Lo que hago y me interesa
 
-  <p><strong>Áreas de trabajo</strong></p>
-  <ul>
-    <li><strong>Análisis de requerimientos:</strong> identificación de necesidades y definición de soluciones técnicas.</li>
-    <li><strong>Bases de datos:</strong> diseño, estructuración y gestión de modelos de datos.</li>
-    <li><strong>Desarrollo de software:</strong> implementación y evolución de funcionalidades de la plataforma.</li>
-    <li><strong>Inteligencia artificial:</strong> desarrollo e implementación de capacidades de IA dentro de las soluciones de software.</li>
-    <li><strong>Arquitectura:</strong> participación en decisiones técnicas sobre el diseño y la organización de las soluciones.</li>
-    <li><strong>Despliegue:</strong> puesta en funcionamiento de aplicaciones y nuevas funcionalidades.</li>
-    <li><strong>Herramientas y procesos:</strong> desarrollo de utilidades internas y optimización de los procesos de trabajo del equipo.</li>
-  </ul>
+| | |
+| :--- | :--- |
+| **Desarrollo de productos** | Llevar una idea desde el problema hasta una solución útil, conectando las necesidades del negocio con la ejecución técnica. |
+| **Arquitectura y código mantenible** | Construir software claro y bien estructurado, tomando decisiones técnicas que permitan que los sistemas crezcan sin volverse frágiles. |
+| **Inteligencia artificial aplicada** | Integrar capacidades de IA tanto para potenciar las funciones de un producto como para acelerar y mejorar la forma en que desarrollo software. |
+| **Aprendizaje en público** | Explorar herramientas a fondo, llevarlas a la práctica y compartir ese conocimiento con la comunidad. |
 
-  <p><a href="https://nova-dynamics.net/">Visitar Novadynamics ↗</a></p>
-</td>
-  </tr>
-</table>
+---
 
-## 🧰 Tech Stack
+## Experiencia profesional
 
-<p align="center">
-  <em>Tecnologías y herramientas que me interesa aprender, explorar y seguir incorporando a mi desarrollo profesional.</em>
-</p>
+### Novadynamics
+**Desarrollo de Producto e Ingeniería de Software** · *Agosto 2025 – Actualidad*
 
-### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
-</p>
+Participo en el desarrollo integral de una plataforma omnicanal para centros de contacto virtuales que unifica chat, telefonía, herramientas de gestión e inteligencia artificial.
 
-### ⚙️ Backend & APIs
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-</p>
+- **Ciclo completo de producto:** Levantamiento de requerimientos, diseño técnico, arquitectura e implementación de nuevas funcionalidades.
+- **Inteligencia artificial:** Integración de capacidades de IA directamente en los flujos de la plataforma.
+- **Datos y despliegue:** Diseño y mantenimiento de modelos de bases de datos, además de la puesta en producción de aplicaciones.
+- **Productividad interna:** Creación de herramientas y mejoras en los flujos de trabajo del equipo de ingeniería.
 
-### 🌐 Frontend
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+[Conocer Novadynamics](https://nova-dynamics.net/)
 
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
+---
 
-### ☁️ Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+### R5
+**Ingeniero de Software Backend / Integraciones (Fintech & Insurtech)** · *Octubre 2020 – Julio 2024*
 
-### ☁️ AWS Services
-<p>
-  <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
-  <img src="https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white" />
-  <img src="https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazoniam&logoColor=white" />
-  <img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white" />
-  <img src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQS-FF4F8B?style=flat-square&logo=amazonsqs&logoColor=white" />
-</p>
+Formé parte del equipo tecnológico del área de seguros, asegurando la estabilidad operativa y el crecimiento de la plataforma de venta de SOAT en alianza con entidades como Bancolombia y AXA Seguros.
 
-### 🛠️ Development Tools
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
-</p>
+- **Integraciones financieras:** Desarrollo y mantenimiento de conexiones críticas con aseguradoras, entidades bancarias y pasarelas de pago para habilitar nuevos servicios.
+- **Automatización operativa:** Creación de scripts y herramientas internas para optimizar procesos manuales y reducir tiempos de respuesta.
+- **Prevención de fraude:** Implementación de herramientas para la detección de fraudes y gestión de clientes restringidos.
+- **Soporte técnico especializado:** Resolución de incidentes complejos y análisis de errores en producción junto a equipos internos y aliados externos.
 
-### 🤖 Areas of Interest
-<p>
-  <img src="https://img.shields.io/badge/AI%20for%20Development-6E40C9?style=flat-square" />
-  <img src="https://img.shields.io/badge/Software%20Architecture-0969DA?style=flat-square" />
-  <img src="https://img.shields.io/badge/CI%2FCD-238636?style=flat-square" />
-  <img src="https://img.shields.io/badge/Automation-8250DF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Scalable%20Systems-0A7EA4?style=flat-square" />
-  <img src="https://img.shields.io/badge/Cloud%20Computing-E87722?style=flat-square" />
-  <img src="https://img.shields.io/badge/Testing-64748B?style=flat-square" />
-</p>
+[Conocer R5](https://www.grupor5.com/comprar-soat-en-linea)
+
+---
+
+## Stack tecnológico
+
+Herramientas con las que diseño, construyo y despliego soluciones hoy en día:
+
+- **Lenguajes:** Python, TypeScript, JavaScript, SQL, Bash.
+- **Backend y APIs:** Node.js, NestJS, REST APIs, GraphQL.
+- **Frontend:** React, Next.js, HTML5, CSS3.
+- **Bases de datos:** PostgreSQL, MongoDB, Redis.
+- **Nube y DevOps:** AWS (S3, EC2, Lambda, RDS, IAM, CloudWatch, API Gateway, SQS), Docker, Linux, Git, GitHub.
+- **Herramientas de desarrollo:** Cursor, VS Code, WebStorm, PyCharm, Markdown.
+- **En exploración constante:** Arquitectura de software avanzada, agentes e IA aplicada al desarrollo, CI/CD, testing automatizado y sistemas escalables.
