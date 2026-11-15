@@ -18,7 +18,7 @@
 
 ## Sobre mí
 
-![Andrés Ramos](assets/me.png)
+![Andrés Ramos](assets/me.jpg)
 
 Llevo más de cinco años desarrollando software, con un enfoque principal en backend. A principios de 2026 inicié una transición clave en mi carrera: pasé de enfocarme únicamente en el código a crear productos de software completos, integrar inteligencia artificial en mis flujos de trabajo y compartir públicamente lo que aprendo en el proceso.
 
