@@ -2,8 +2,9 @@
 
 **Desarrollador de Software Mid Level**
 
-| **LinkedIn**       | [Andres Ramos](https://www.linkedin.com/in/framqui/) |
+| REDES | LINKS |
 | :----------------- | :--------------------------------------------------- |
+| **LinkedIn**       | [Andres Ramos](https://www.linkedin.com/in/framqui/) |
 | **Email**          | [andfera201@gmail.com](mailto:andfera201@gmail.com)  |
 | **Sitio personal** | [framqui.com](https://framqui.com)                   |
 ## Contáctame
@@ -27,8 +28,9 @@ Tecnologías con las que tengo mayor experiencia y trabajo en el día a día:
 - **Nube:** AWS
 ## Lo que hago y me interesa
 
-| **Desarrollo de productos**          | Llevar una idea desde el problema hasta una solución útil, conectando las necesidades del negocio con la ejecución técnica.                    |
+| INTERESES | DESCRIPCIÓN |
 | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Desarrollo de productos**          | Llevar una idea desde el problema hasta una solución útil, conectando las necesidades del negocio con la ejecución técnica.                    |
 | **Arquitectura y código mantenible** | Construir software claro y bien estructurado, tomando decisiones técnicas que permitan que los sistemas crezcan sin volverse frágiles.         |
 | **Inteligencia artificial aplicada** | Integrar capacidades de IA tanto para potenciar las funciones de un producto como para acelerar y mejorar la forma en que desarrollo software. |
 | **Aprendizaje en público**           | Explorar herramientas a fondo, llevarlas a la práctica y compartir ese conocimiento con la comunidad.                                          |
