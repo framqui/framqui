@@ -9,9 +9,6 @@
 | **Sitio personal** | [framqui.com](https://framqui.com)                           |
 | **GitHub**         | [framqui](https://github.com/framqui)  |                   |
 
-## Contáctame
-
-¿Quieres ponerte en contacto conmigo, proponer un proyecto o conversar sobre tecnología, desarrollo de producto e inteligencia artificial? Escríbeme directamente por **[correo electrónico](mailto:andfera201@gmail.com)** o conéctate conmigo en **[LinkedIn](https://www.linkedin.com/in/framqui/)**.
 ## Sobre mí
 
 <img src="https://github.com/framqui/framqui/blob/main/assets/me.jpg?raw=true" alt="Andrés Ramos" width="180" />
