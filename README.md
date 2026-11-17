@@ -4,10 +4,10 @@
 
 | REDES | LINKS |
 | :----------------- | :--------------------------------------------------- |
-| **LinkedIn**       | [Andres Ramos](https://www.linkedin.com/in/framqui/) |
-| **Email**          | [andfera201@gmail.com](mailto:andfera201@gmail.com)  |
-| **Sitio personal** | [framqui.com](https://framqui.com)                   |
-| **GitHub** | [framqui]([https://framqui.com](https://github.com/framqui))                   |
+| **LinkedIn**       | [Andres Ramos](https://www.linkedin.com/in/framqui/)         |
+| **Email**          | [andfera201@gmail.com](mailto:andfera201@gmail.com)          |
+| **Sitio personal** | [framqui.com](https://framqui.com)                           |
+| **GitHub**         | [framqui](https://github.com/framqui)  |                   |
 
 ## Contáctame
 
